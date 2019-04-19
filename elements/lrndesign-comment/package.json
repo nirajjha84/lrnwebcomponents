@@ -42,7 +42,7 @@
   "dependencies": {
     "@lrnwebcomponents/lrndesign-avatar": "^2.0.9",
     "@polymer/polymer": "^3.2.0",
-    "time-elements": "1.2.0"
+    "time-elements": "2.0.0"
   },
   "devDependencies": {
     "@lrnwebcomponents/deduping-fix": "^2.0.9",
@@ -52,7 +52,7 @@
     "@webcomponents/webcomponentsjs": "^2.2.9",
     "concurrently": "4.1.0",
     "gulp-babel": "8.0.0",
-    "gulp-sourcemaps": "2.6.4",
+    "gulp-sourcemaps": "2.6.5",
     "lodash": "4.17.11",
     "polymer-cli": "1.9.8",
     "wct-browser-legacy": "1.0.2"

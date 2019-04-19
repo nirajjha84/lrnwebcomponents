@@ -32,7 +32,7 @@
 		"grunt-contrib-uglify": "^4.0.1",
 		"load-grunt-tasks": "^4.0.0",
 		"tsd": "^0.7.1",
-		"xo": "^0.16.0"
+		"xo": "^0.24.0"
 	},
 	"types": "dist/screenfull.d.ts",
 	"xo": {
